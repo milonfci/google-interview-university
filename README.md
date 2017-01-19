@@ -45,9 +45,9 @@ If you want to be a reliability engineer or systems engineer, study more from th
 
 - [What is it?](#what-is-it)[x]
 - [Why use it?](#why-use-it)[x]
-- [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [How to use it](#how-to-use-it)[x]
+- [Get in a Googley Mood](#get-in-a-googley-mood)[x]
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)[x]
 - [About Google](#about-google)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
